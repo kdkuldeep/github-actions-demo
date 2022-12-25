@@ -1,4 +1,4 @@
-def add(x, y, z):
+def add(x, y):
     """This is an add function"""
 
     return x + y + z
